@@ -1,0 +1,10 @@
+
+Conecter la console symfony
+docker container exec -ti f621656bccf1a0a8a30965b1190bdc154ebd23c7d3b4c937baa07c75a81a07c6 bash
+
+
+Projet : http://localhost:8741/
+phpmyadmin : http://localhost:8080/
+
+
+Tuto : https://medium.com/@meherbensalah4/how-to-dockerize-symfony-project-f06bcd735308
